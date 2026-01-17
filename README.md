@@ -7,6 +7,7 @@
 </p>
 
 <h1 align="center">🚀 Career Copilot AI</h1>
+https://career-copilot-ai-xlbe.onrender.com/
 
 <p align="center">
   <strong>An Intelligent AI-Powered Career Guidance Platform</strong><br>
