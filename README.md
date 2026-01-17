@@ -11,6 +11,7 @@
 <p align="center">
   <strong>An Intelligent AI-Powered Career Guidance Platform</strong><br>
   Transform your job search with advanced resume analysis, personalized learning roadmaps, and AI-generated career assets.
+ Vid Link: https://drive.google.com/file/d/1V2kW5XIy1OHB-HbXajX1bebIdqk67-Wn/view?usp=sharing
 </p>
 
 <p align="center">
